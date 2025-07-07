@@ -22,16 +22,16 @@ export default {
     data() {
         return {
             projects: [
-                { name: 'Racines', cover: '/Ninasite/public/projets/soleil.png' },
+                { name: 'Racines', cover: '/Ninasite/projets/soleil.png' },
 
-                { name: 'Title', cover: '/Ninasite/public/projets/title.png' },
-                { name: 'Montage', cover: '/Ninasite/public/projets/photo.png' },
-                { name: 'Memoire', cover: '/Ninasite/public/projets/memoire.png' },
-                { name: 'Cyberpunk', cover: '/Ninasite/public/projets/cyberpunk.png' },
-                { name: 'Jardin', cover: '/Ninasite/public/projets/jardin.jpg' },
+                { name: 'Title', cover: '/Ninasite/projets/title.png' },
+                { name: 'Montage', cover: '/Ninasite/projets/photo.png' },
+                { name: 'Memoire', cover: '/Ninasite/projets/memoire.png' },
+                { name: 'Cyberpunk', cover: '/Ninasite/projets/cyberpunk.png' },
+                { name: 'Jardin', cover: '/Ninasite/projets/jardin.jpg' },
 
-                { name: 'Mapping', cover: '/Ninasite/public/projets/maping.png' },
-                { name: 'Concert', cover: '/Ninasite/public/projets/concert.jpg' },
+                { name: 'Mapping', cover: '/Ninasite/projets/maping.png' },
+                { name: 'Concert', cover: '/Ninasite/projets/concert.jpg' },
 
 
 
