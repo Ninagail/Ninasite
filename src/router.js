@@ -1,4 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router';
+
+
+
 import HomePage from './pages/HomePage.vue';
 import ProjetsPage from './pages/ProjetsPage.vue';
 import ShortsPage from './pages/ShortsPage.vue';
@@ -83,8 +86,9 @@ const routes = [
 ];
 
 const router = createRouter({
-    history: createWebHistory(),
+    history: createWebHistory('/Ninasite/'), // ✅ indique le sous-répertoire
     routes
 });
+
 
 export default router;
