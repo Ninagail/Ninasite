@@ -22,16 +22,16 @@ export default {
     data() {
         return {
             projects: [
-                { name: 'Racines', cover: '/projets/soleil.png' },
+                { name: 'Racines', cover: 'projets/soleil.png' },
 
-                { name: 'Title', cover: '/projets/title.png' },
-                { name: 'Montage', cover: '/projets/photo.png' },
-                { name: 'Memoire', cover: '/projets/memoire.png' },
-                { name: 'Cyberpunk', cover: '/projets/cyberpunk.png' },
-                { name: 'Jardin', cover: '/projets/jardin.jpg' },
+                { name: 'Title', cover: 'projets/title.png' },
+                { name: 'Montage', cover: 'projets/photo.png' },
+                { name: 'Memoire', cover: 'projets/memoire.png' },
+                { name: 'Cyberpunk', cover: 'projets/cyberpunk.png' },
+                { name: 'Jardin', cover: '  projets/jardin.jpg' },
 
-                { name: 'Mapping', cover: '/projets/maping.png' },
-                { name: 'Concert', cover: '/projets/concert.jpg' },
+                { name: 'Mapping', cover: 'projets/maping.png' },
+                { name: 'Concert', cover: 'projets/concert.jpg' },
 
 
 
