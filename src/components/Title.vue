@@ -12,14 +12,13 @@
         </div>
        <div class="video-section">
   <iframe
-    width="100%"
-    height="480"
+    class="yt-iframe"
     src="https://www.youtube.com/embed/2EvVFT8J_Wo?si=flLKnMm0ZjWM3pJY"
     title="TITLE SEQUENCE"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
-    class="yt-iframe"
+  
   ></iframe>
 </div>
 
@@ -77,7 +76,6 @@ export default {
 
 .yt-iframe {
   width: 100%;
-  max-width: 100%;
   aspect-ratio: 16 / 9;
   
 }

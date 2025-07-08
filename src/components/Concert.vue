@@ -35,17 +35,17 @@ export default {
     data() {
         return {
             images: [
-                '/projets/concert/concert1.jpeg',
-                '/projets/concert/concert9.jpeg',
+                '/Ninasite/projets/concert/concert1.jpeg',
+                '/Ninasite/projets/concert/concert9.jpeg',
 
-                '/projets/concert/concert3.jpeg',
-                '/projets/concert/concert4.jpeg',
-                '/projets/concert/concert8.jpeg',
-                '/projets/concert/concert6.jpeg',
-                '/projets/concert/concert7.jpeg',
-                '/projets/concert/concert5.jpg',
+                '/Ninasite/projets/concert/concert3.jpeg',
+                '/Ninasite/projets/concert/concert4.jpeg',
+                '/Ninasite/projets/concert/concert8.jpeg',
+                '/Ninasite/projets/concert/concert6.jpeg',
+                '/Ninasite/projets/concert/concert7.jpeg',
+                '/Ninasite/projets/concert/concert5.jpg',
 
-                '/projets/concert/concert2.jpeg',
+                '/Ninasite/projets/concert/concert2.jpeg',
             ],
             lightboxOpen: false,
             currentIndex: 0

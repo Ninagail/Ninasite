@@ -46,11 +46,11 @@ export default {
             lightboxOpen: false,
             currentIndex: 0,
             images: [
-                '/projets/cyberpunk/cyberpunk1.png',
-                '/projets/cyberpunk/cyberpunk2.png',
-                '/projets/cyberpunk/cyberpunk3.png',
-                '/projets/cyberpunk/cyberpunk4.png',
-                '/projets/cyberpunk/cyberpunk5.png'
+                '/Ninasite/projets/cyberpunk/cyberpunk1.png',
+                '/Ninasite/projets/cyberpunk/cyberpunk2.png',
+                '/Ninasite/projets/cyberpunk/cyberpunk3.png',
+                '/Ninasite/projets/cyberpunk/cyberpunk4.png',
+                '/Ninasite/projets/cyberpunk/cyberpunk5.png'
             ]
         };
     },
