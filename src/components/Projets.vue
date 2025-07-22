@@ -91,7 +91,7 @@ export default {
 }
 
 /* responsive  */
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1300px) {
     .gallery {
         column-count: 2;
         column-gap: 16px;
@@ -103,7 +103,7 @@ export default {
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
     .gallery {
         column-count: 1;
         column-gap: 0;
@@ -116,17 +116,14 @@ export default {
 
     .project-card img {
         max-height: 300px;
+        max-width: 400px;
         object-fit: cover;
     }
 
     .project-card h3 {
         font-size: 1.5rem;
     }
-    .project-card img {
-        width: 100%;
-        height: auto;
-        max-width: 100%;
-    }
+    
 
 
 }

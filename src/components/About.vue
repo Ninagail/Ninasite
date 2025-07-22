@@ -14,13 +14,13 @@
             </p>
 
             <div class="cv-links">
-                <a href="/about/cvNina.pdf" download class="cv-button">Telecharger mon CV</a>
-                <a href="/about/resumeNina.pdf" download class="cv-button">Download my resume</a>
+                <a href="/Ninasite/about/cvNina.pdf" download class="cv-button">Telecharger mon CV</a>
+                <a href="/Ninasite/about/resumeNina.pdf" download class="cv-button">Download my resume</a>
             </div>
 
         </div>
         <div class="about-image">
-            <img src="/about/nina.png" alt="Nina Gaillard" />
+            <img src="/Ninasite/about/nina.png" alt="Nina Gaillard" />
             <div class="contact">
                 <p>
                     <a href="mailto:gailnina@orange.fr">gailnina@orange.fr</a> <br>
