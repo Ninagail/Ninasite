@@ -20,7 +20,7 @@
 
         </div>
         <div class="about-image">
-            <img src="/Ninasite/about/nina.png" alt="Nina Gaillard" />
+            <img src="/about/nina.png" alt="Nina Gaillard" />
             <div class="contact">
                 <p>
                     <a href="mailto:gailnina@orange.fr">gailnina@orange.fr</a> <br>
