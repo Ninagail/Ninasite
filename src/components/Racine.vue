@@ -14,7 +14,7 @@
         <div class="media-section">
           <iframe
                 class="yt-iframe"
-                src="https://www.youtube.com/embed/OE9VqvAe_cA?rel=0&modestbranding=1&controls=1"
+                src="https://www.youtube.com/embed/ZYdhJ1r0bA0?si=K9iGI8pehO8Ax8XW"
                 title="Feu"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
